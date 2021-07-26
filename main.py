@@ -1,1 +1,2 @@
-print(560*24)
+
+print ('fswdfdfwfs')
